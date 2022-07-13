@@ -1,14 +1,11 @@
 # Predicting Bike-Sharing Patterns
 
-A Neural Network developed during my Deep Learning Nanodegree at Udacity. In this project, I created a simple neural network to use it to predict daily bike rental ridership.
-
-
 ![Bikes](https://user-images.githubusercontent.com/68460588/178815585-a0423037-ec0e-49cb-a5e0-35539d152c5a.png)
 
 --- 
 
 ## Overview
-This project is implemented during my Deep Learning Nanodegree at Udacity. I build a Neural Network from scratch using NumPy and train for regression problem.
+This project was made by me during Udacity Deep Learning Nanodegree at Udacity. I build a Neural Network from scratch using NumPy and train for regression problem.
 The problem is to predict of bike rental count hourly or daily based on the environmental and seasonal settings, to prepare enough amount of bike for rider in the future.
 
 ---
@@ -64,6 +61,9 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 The whole project is located in the jupyter notebook file ```Your_first_neural_network.ipynb```
 and it's include the training and the prediction part. The neural network is implemented in the file 
 ```my_answer.py``` and used from the jupyter notebook.
+
+--- 
+
 
 ## Hyperparameters of training
 To change the number of epochs, the amount of hidden notes and some other parameters for the neural network, 
